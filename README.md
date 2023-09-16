@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/a-responsive-component-using-css-grid-and-flex-box-GfNM6BzP4O)
+- Live Site URL: [live site URL](https://yassine-ramla.github.io/Frontend-Mentor-Order-summary-card-solution/)
 
 ## My process
 
@@ -60,6 +60,7 @@ if you have a section that contains just a background-image and it's height isn'
   </section>
 </main>
 ```
+
 in this case, the `header` element doesn't have a specific height, but you can give it a height accourding to the height of the `section` element height:
 
 ```css
@@ -69,6 +70,7 @@ main {
   grid-template-rows: 1fr 2fr;
 }
 ```
+
 like this, the height of the header will be auomatically half the height of the section element;
 
 ## Author
